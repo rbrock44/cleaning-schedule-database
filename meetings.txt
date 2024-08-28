@@ -1,0 +1,35 @@
+0|2024-07-29|07:30|08:00|Meeting 1|Addie
+1|2024-07-29|08:00|09:00|Ashley|Addie
+2|2024-07-29|13:00|13:30|Dr Moon|Mitchelle
+3|2024-07-29|12:00|14:00|Anne|Addie
+4|2024-08-12|08:00|09:00|Team Sync|Addie
+5|2024-08-12|10:15|11:00|Client Call|Addie
+6|2024-08-12|14:00|15:00|Strategy Meeting|Samantha
+7|2024-08-13|08:30|09:00|1:1 with Addie|Mitchelle
+8|2024-08-13|13:00|14:00|Development Update|Samantha
+9|2024-08-13|15:00|15:30|Quick Sync|Mitchelle
+10|2024-08-14|09:00|10:00|Team Standup|Addie
+11|2024-08-14|10:30|11:30|Client Presentation|Samantha
+12|2024-08-14|13:00|14:00|Feedback Session|Mitchelle
+13|2024-08-14|15:00|16:00|All Hands Meeting|Addie
+14|2024-08-15|08:00|09:00|Planning Session|Samantha
+15|2024-08-15|10:00|11:00|Design Review|Mitchelle
+16|2024-08-15|14:30|15:30|Sales Call|Samantha
+17|2024-08-16|09:00|10:00|Weekly Sync|Addie
+18|2024-08-16|11:00|12:00|Marketing Review|Mitchelle
+19|2024-08-16|13:00|14:00|Product Launch|Samantha
+20|2024-08-16|15:00|16:00|Retrospective|Addie
+21|2024-08-19|08:00|09:00|Monday Kickoff|Addie
+22|2024-08-19|11:00|12:00|Client Check-in|Samantha
+23|2024-08-19|14:00|15:00|Tech Sync|Addie
+24|2024-08-20|08:30|09:30|Design Discussion|Mitchelle
+25|2024-08-20|10:00|11:00|Product Review|Addie
+26|2024-08-20|12:00|13:00|HR Meeting|Samantha
+27|2024-08-20|14:30|15:30|Code Review|Mitchelle
+28|2024-08-21|09:00|10:00|Team Standup|Addie
+29|2024-08-21|10:30|11:30|Client Call|Samantha
+30|2024-08-22|13:00|14:00|Project Update|Mitchelle
+31|2024-08-23|12:00|13:00|Lunch Meeting|Addie
+32|2024-08-26|09:30|10:00|Project Update|Mitchelle
+33|2024-08-27|11:00|12:00|Product Review|Addie
+34|2024-08-28|09:30|10:30|Sprint Planning|Mitchelle
